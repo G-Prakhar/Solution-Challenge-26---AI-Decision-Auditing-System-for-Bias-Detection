@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+aif360
+fairlearn
+shap
+fastapi
+uvicorn
+streamlit
+matplotlib
